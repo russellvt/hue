@@ -1,5 +1,7 @@
 ---
-# Find the HUE Device Registered to your network
+# Find the HUE Device Registered to your network.
+#
+# This is likely only useful to those in weirdly-connected environments.
 #
 # Usage:
 #   ansible-playbook find_hue.yml
